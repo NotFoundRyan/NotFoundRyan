@@ -12,9 +12,10 @@ jobs:
       actions: read
     steps:
       - uses: actions/checkout@v4
+      
       - uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           GH_USERNAME: ${{ github.repository_owner }}
-          CONFIG_FILE: ""
+          CONFIG_FILE: ".github/workflows/recent-activity.config.yml"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
