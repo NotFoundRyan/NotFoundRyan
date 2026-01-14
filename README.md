@@ -1,30 +1,25 @@
 <div align="center">
 
-<!-- 动态打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ryan+Chen+%F0%9F%91%8B;CS+Undergraduate+%F0%9F%8E%93;Welcome+to+my+digital+realm...)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&text=Ryan%20Chen&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF" />
 
-<!-- 动态贪吃蛇吃掉贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotFoundRyan/NotFoundRyan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotFoundRyan/NotFoundRyan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NotFoundRyan/NotFoundRyan/output/github-snake-dark.svg" />
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=500&height=60&lines=%F0%9F%8E%93+CS+Undergraduate;%E2%9A%A1+Embedded+%7C+Full+Stack+%7C+IoT)](https://git.io/typing-svg)
 
-<!-- 3D 贡献图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotFoundRyan&custom_title=Ryan's%20Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="Activity Graph" />
+<br>
 
-<!-- 超酷的 GitHub Stats 卡片 -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NotFoundRyan&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=F8D866&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NotFoundRyan&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,vue,nodejs,mysql,redis,linux,git,vscode&perline=6" />
 
-<!-- 动态技能条 -->
-### ⚡ Tech Arsenal
-![](https://skillicons.dev/icons?i=c,cpp,python,java,js,vue,nodejs,mysql,redis,linux,git,docker,arduino&theme=dark&perline=13)
+<br><br>
 
-<!-- Spotify 正在播放（如果你用的话） -->
-[![Spotify](https://novatorem-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/你的ID)
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NotFoundRyan&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<!-- 访客计数 - 更酷的样式 -->
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotFoundRyan&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" />
+
+<br>
+
 <img src="https://profile-counter.glitch.me/NotFoundRyan/count.svg" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=100&section=footer" />
 
 </div>
