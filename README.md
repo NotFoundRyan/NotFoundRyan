@@ -81,26 +81,21 @@
 
 <br>
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NotFoundRyan&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=888888&title_color=ffffff&text_color=888888" />
-<img width="49%" src="https://streak-stats.demolab.com?user=NotFoundRyan&theme=dark&hide_border=true&background=0D1117&stroke=333333&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
+<!-- 基础统计（Shields.io） -->
+<img src="https://img.shields.io/github/stars/NotFoundRyan?style=for-the-badge&color=1a1a1a&labelColor=333333&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/commit-activity/m/NotFoundRyan?style=for-the-badge&color=1a1a1a&labelColor=333333&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/repo-size/NotFoundRyan/NotFoundRyan?style=for-the-badge&color=1a1a1a&labelColor=333333&logo=files&logoColor=white" />
 
 <br><br>
 
-<img width="35%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NotFoundRyan&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=888888" />
+<!-- 语言统计（Shields.io） -->
+<img src="https://img.shields.io/github/languages/top/NotFoundRyan/NotFoundRyan?style=for-the-badge&color=4d4d4d&labelColor=666666&logo=code&logoColor=white" />
+<img src="https://img.shields.io/github/languages/count/NotFoundRyan/NotFoundRyan?style=for-the-badge&color=4d4d4d&labelColor=666666&logo=language&logoColor=white" />
 
 <br><br>
 
+<!-- 贡献图 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotFoundRyan&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotFoundRyan&theme=github_dark" width="95%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotFoundRyan&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotFoundRyan&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotFoundRyan&theme=github_dark&utcOffset=8" width="32%" />
 
 </div>
 
@@ -110,13 +105,13 @@
 
 ## Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=NotFoundRyan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%"/>
+<br>
+<img src="https://img.shields.io/badge/Commits-100%2B-1a1a1a?style=flat-square&labelColor=333333&logo=git" />
+<img src="https://img.shields.io/badge/Repos-5%2B-1a1a1a?style=flat-square&labelColor=333333&logo=github" />
+<img src="https://img.shields.io/badge/Languages-8%2B-1a1a1a?style=flat-square&labelColor=333333&logo=code" />
+<img src="https://img.shields.io/badge/Stars-20%2B-1a1a1a?style=flat-square&labelColor=333333&logo=star" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
 
 ## 3D Contribution
 
@@ -128,21 +123,6 @@
 
 <div align="center">
 
-## Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NotFoundRyan/NotFoundRyan](https://github.com/NotFoundRyan/NotFoundRyan)<br>
-2. ⬆️ Pushed undefined commit(s) to [NotFoundRyan/NotFoundRyan](https://github.com/NotFoundRyan/NotFoundRyan)<br>
-3. ⬆️ Pushed undefined commit(s) to [NotFoundRyan/NotFoundRyan](https://github.com/NotFoundRyan/NotFoundRyan)<br>
-4. ⬆️ Pushed undefined commit(s) to [NotFoundRyan/NotFoundRyan](https://github.com/NotFoundRyan/NotFoundRyan)<br>
-5. ⬆️ Pushed undefined commit(s) to [NotFoundRyan/NotFoundRyan](https://github.com/NotFoundRyan/NotFoundRyan)<br>
-<!--RECENT_ACTIVITY:end-->
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
 
 ## Contact
 
