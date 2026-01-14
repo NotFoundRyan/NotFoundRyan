@@ -10,7 +10,7 @@
 <!-- 打字机效果 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%24+Embedded+Developer+%7C+Full+Stack+%7C+IoT+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Embedded+Developer+%7C+Full+Stack+%7C+IoT+Enthusiast)](https://git.io/typing-svg)
 
 <br>
 
@@ -25,7 +25,7 @@
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 贪吃蛇动画 -->
+<!-- 贪吃蛇动画 - 需要先运行 Actions 生成 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <br>
 
@@ -110,21 +110,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GitHub 统计 -->
+<!-- GitHub 统计 - 使用国内可访问的镜像源 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NotFoundRyan&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=888888&title_color=ffffff&text_color=888888&ring_color=888888" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NotFoundRyan&theme=dark&hide_border=true&background=0D1117&stroke=333333&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
+<!-- 使用多个备用源，提高可访问性 -->
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NotFoundRyan&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=888888&title_color=ffffff&text_color=888888" />
+<img width="49%" src="https://streak-stats.demolab.com?user=NotFoundRyan&theme=dark&hide_border=true&background=0D1117&stroke=333333&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
 
 <br><br>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFoundRyan&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=888888" />
+<img width="35%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NotFoundRyan&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=888888" />
 
 <br><br>
 
@@ -151,12 +152,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GitHub 奖杯 -->
+<!-- GitHub 奖杯 - 使用备用源 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🏆 Trophies
+## Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=NotFoundRyan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%"/>
 
@@ -169,51 +170,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 3D 贡献图 -->
+<!-- 3D 贡献图 - 需要先运行 Actions 生成 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📈 3D Contribution
+## 3D Contribution
 
-<img src="https://raw.githubusercontent.com/NotFoundRyan/NotFoundRyan/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 分割线 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 编码统计 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⏱️ Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 分割线 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 名言 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 💭 Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 
 </div>
 
@@ -229,7 +193,7 @@
 
 <div align="center">
 
-## 📫 Contact
+## Contact
 
 <a href="mailto:1394872816@qq.com">
   <img src="https://img.shields.io/badge/Email-1394872816@qq.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333" />
@@ -239,10 +203,6 @@
 </a>
 
 <br><br>
-
-<img src="https://profile-counter.glitch.me/NotFoundRyan/count.svg" />
-
-<br>
 
 ![](https://komarev.com/ghpvc/?username=NotFoundRyan&label=Profile%20Views&color=333333&style=for-the-badge)
 
