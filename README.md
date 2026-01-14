@@ -1,32 +1,16 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 顶部动态横幅 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:4d4d4d&height=200&section=header&text=Ryan%20Chen&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergraduate&descAlignY=58&descSize=18&descColor=888888" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 打字机效果 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Embedded+Developer+%7C+Full+Stack+%7C+IoT+Enthusiast)](https://git.io/typing-svg)
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 快速状态标签 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-1a1a1a?style=flat-square&labelColor=333333" />
 <img src="https://img.shields.io/badge/Location-China-1a1a1a?style=flat-square&labelColor=333333" />
 <img src="https://img.shields.io/badge/Education-CS%20Undergraduate-1a1a1a?style=flat-square&labelColor=333333" />
 
 <br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 贪吃蛇动画 - 需要先运行 Actions 生成 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotFoundRyan/NotFoundRyan/output/github-snake-dark.svg" />
@@ -36,15 +20,7 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 分割线 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 技术栈 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -52,7 +28,6 @@
 
 <br>
 
-<!-- 动态旋转图标 -->
 <p>
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="60" height="60" />
@@ -65,7 +40,6 @@
 
 <br>
 
-<!-- Languages -->
 ![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
@@ -73,28 +47,24 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- Embedded -->
 ![STM32](https://img.shields.io/badge/STM32-333333?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Hi3863](https://img.shields.io/badge/Hi3863-333333?style=for-the-badge&logo=huawei&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-333333?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-333333?style=for-the-badge&logo=mqtt&logoColor=white)
 
-<!-- Frontend -->
 ![Vue.js](https://img.shields.io/badge/Vue.js-4d4d4d?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-4d4d4d?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-4d4d4d?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-4d4d4d?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4d4d4d?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Backend & Database -->
 ![Node.js](https://img.shields.io/badge/Node.js-666666?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-666666?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-666666?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-666666?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-666666?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-888888?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-888888?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-888888?style=for-the-badge&logo=docker&logoColor=white)
@@ -103,15 +73,7 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 分割线 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GitHub 统计 - 使用国内可访问的镜像源 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -119,7 +81,6 @@
 
 <br>
 
-<!-- 使用多个备用源，提高可访问性 -->
 <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NotFoundRyan&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=888888&title_color=ffffff&text_color=888888" />
 <img width="49%" src="https://streak-stats.demolab.com?user=NotFoundRyan&theme=dark&hide_border=true&background=0D1117&stroke=333333&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
 
@@ -129,12 +90,10 @@
 
 <br><br>
 
-<!-- 贡献活动图 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotFoundRyan&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 <br><br>
 
-<!-- Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotFoundRyan&theme=github_dark" width="95%"/>
 
 <br>
@@ -145,15 +104,7 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 分割线 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GitHub 奖杯 - 使用备用源 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -163,15 +114,7 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 分割线 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 3D 贡献图 - 需要先运行 Actions 生成 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -181,15 +124,18 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 分割线 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 联系方式 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -207,9 +153,5 @@
 ![](https://komarev.com/ghpvc/?username=NotFoundRyan&label=Profile%20Views&color=333333&style=for-the-badge)
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 底部 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,50:333333,100:1a1a1a&height=120&section=footer" width="100%"/>
