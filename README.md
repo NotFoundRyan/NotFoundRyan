@@ -81,19 +81,6 @@
 
 <br>
 
-<!-- 基础统计（Shields.io） -->
-<img src="https://img.shields.io/github/stars/NotFoundRyan?style=for-the-badge&color=1a1a1a&labelColor=333333&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/commit-activity/m/NotFoundRyan?style=for-the-badge&color=1a1a1a&labelColor=333333&logo=git&logoColor=white" />
-<img src="https://img.shields.io/github/repo-size/NotFoundRyan/NotFoundRyan?style=for-the-badge&color=1a1a1a&labelColor=333333&logo=files&logoColor=white" />
-
-<br><br>
-
-<!-- 语言统计（Shields.io） -->
-<img src="https://img.shields.io/github/languages/top/NotFoundRyan/NotFoundRyan?style=for-the-badge&color=4d4d4d&labelColor=666666&logo=code&logoColor=white" />
-<img src="https://img.shields.io/github/languages/count/NotFoundRyan/NotFoundRyan?style=for-the-badge&color=4d4d4d&labelColor=666666&logo=language&logoColor=white" />
-
-<br><br>
-
 <!-- 贡献图 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotFoundRyan&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
@@ -103,15 +90,6 @@
 
 <div align="center">
 
-## Trophies
-
-<br>
-<img src="https://img.shields.io/badge/Commits-100%2B-1a1a1a?style=flat-square&labelColor=333333&logo=git" />
-<img src="https://img.shields.io/badge/Repos-5%2B-1a1a1a?style=flat-square&labelColor=333333&logo=github" />
-<img src="https://img.shields.io/badge/Languages-8%2B-1a1a1a?style=flat-square&labelColor=333333&logo=code" />
-<img src="https://img.shields.io/badge/Stars-20%2B-1a1a1a?style=flat-square&labelColor=333333&logo=star" />
-
-</div>
 
 ## 3D Contribution
 
