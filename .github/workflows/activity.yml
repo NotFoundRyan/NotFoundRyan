@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           # 必选：GitHub 用户名（默认是仓库所有者）
           username: ${{ github.repository_owner }}
