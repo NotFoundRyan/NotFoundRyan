@@ -1,21 +1,24 @@
 name: Update Recent Activity
-
 on:
   schedule:
-    - cron: "*/30 * * * *"  # 每30分钟更新
-  workflow_dispatch:
+    # 每小时触发一次（可自定义频率，参考 cron 表达式）
+    - cron: "30 * * * *"
+  workflow_dispatch: # 手动触发开关
 
 jobs:
-  build:
+  update-activity:
     runs-on: ubuntu-latest
-    name: Update Activity
-    
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Readme-Workflows/recent-activity@2.330.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@v2
         with:
-          COMMIT_MSG: "Update Recent Activity"
-          MAX_LINES: 5
+          # 必选：GitHub 用户名（默认是仓库所有者）
+          username: ${{ github.repository_owner }}
+          # 可选：展示的活动条数（默认 5）
+          max_count: 5
+          # 可选：忽略的行为类型（多个用逗号分隔，如 issue_comment,star）
+          exclude_types: ""
+          # 可选：忽略的仓库（多个用逗号分隔，如 owner/repo1,owner/repo2）
+          exclude_repos: ""
+          # 可选：时间格式（默认 en-US，支持 zh-CN 等）
+          locale: zh-CN
