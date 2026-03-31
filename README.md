@@ -77,6 +77,13 @@
 
 <div align="center">
 
+## Blog
+
+<a href="https://notfoundryan.github.io/learning-notes/">
+  <img src="https://notfoundryan.github.io/learning-notes/logo.svg" />
+</a>
+
+
 ## GitHub Analytics
 
 <br>
