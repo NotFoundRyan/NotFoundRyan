@@ -79,9 +79,13 @@
 
 ## Blog
 
-<a href="https://notfoundryan.github.io/learning-notes/">
-  <img src="https://notfoundryan.github.io/learning-notes/logo.svg" />
-</a>
+<div style="text-align: center; margin: 20px 0;">
+  <p style="margin: 0 0 5px; font-size: 16px; font-weight: bold;">Welcome to My Learning Notes</p>
+  <a href="https://notfoundryan.github.io/learning-notes/">
+    <img src="https://notfoundryan.github.io/learning-notes/logo.svg" style="width: 60px; height: auto;" />
+  </a>
+  <p style="margin: 5px 0 0; font-size: 14px; color: #666;">My Personal Blog</p>
+</div>
 
 
 ## GitHub Analytics
