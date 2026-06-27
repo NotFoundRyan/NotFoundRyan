@@ -6,6 +6,7 @@
 >     <br>
 >     The best way to predict the future is to invent it.
 > </em></p>
+
 > <p align="right">
 >     &mdash;&mdash;&mdash;Alan Kay
 > </p>
