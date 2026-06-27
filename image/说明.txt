@@ -1,0 +1,2 @@
+把你的头像/装饰图片放到这个目录，然后在 README.md 中引用。
+例如：把图片命名为 avatar.png，README 已默认引用 ./image/avatar.png。
