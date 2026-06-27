@@ -1,27 +1,15 @@
-<!-- 顶部右侧图片：直接使用 GitHub 头像 -->
 <img src="https://github.com/NotFoundRyan.png" width="180" height="180" alt="avatar" align=right />
 <div align="center">
-<!-- thanks for:https://github.com/Radiant303/Radiant303 -->
 > <p align="left"><em>
->
-
+>     <br>
 >     预测未来的最好方式，就是去创造它。
->
-
+>     <br>
 >     The best way to predict the future is to invent it.
 > </em></p>
 > <p align="right">
 >     &mdash;&mdash;&mdash;Alan Kay
 > </p>
 </div>
-
-<!-- ↓↓↓ About Me：以下为占位文案，请按需修改 ↓↓↓ -->
-_✨  Being keen on steering practical things, now hands-on **FE** and **BE**.  ✨_
-_Though worldly affairs shift like fleeting clouds and life ultimately withers, the striving for eternity and brilliance amidst impermanence remains preserved in our cultural memory._
-_Contributor and Plugin Developer of **[@your-org/your-project](https://github.com/your-org/your-project)**_
-<sub><em>Nice to meet you! May every day be filled with sunshine and smiles for you.★</em></sub>
-</div>
-<!-- ↑↑↑ About Me 占位文案结束 ↑↑↑ -->
 
 <img src="https://raw.githubusercontent.com/NotFoundRyan/NotFoundRyan/refs/heads/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
 
