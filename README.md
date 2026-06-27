@@ -1,5 +1,5 @@
-<!-- 顶部右侧图片：把你的图片放到 image/ 目录下并命名为 avatar.png，或修改下方路径 -->
-<img src="./image/avatar.png" width="318" height="180" alt="avatar" align=right />
+<!-- 顶部右侧图片：直接使用 GitHub 头像 -->
+<img src="https://github.com/NotFoundRyan.png" width="180" height="180" alt="avatar" align=right />
 <div align="center">
 <!-- thanks for:https://github.com/Radiant303/Radiant303 -->
 > <p align="left"><em>
