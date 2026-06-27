@@ -5,16 +5,13 @@
 > <p align="left"><em>
 >
 
->     我们凝望着最初的凝望，感到另一颗心跨越时空，望见生命的力量之和。
+>     预测未来的最好方式，就是去创造它。
 >
 
->     We gaze upon the first gaze, feeling another heart transcend time and space,
->
-
->     seeing the sum of the power of life.
+>     The best way to predict the future is to invent it.
 > </em></p>
 > <p align="right">
->     &mdash;&mdash;&mdash;《National Treasure》
+>     &mdash;&mdash;&mdash;Alan Kay
 > </p>
 </div>
 
